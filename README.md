@@ -9,39 +9,19 @@ Example: https://meme-api.com/gimme/wholesomememes
 Response:
 ```
 {
-  "count": 2,
-  "memes": [
-    {
-      "postLink": "https://redd.it/jictqq",
-      "subreddit": "dankmemes",
-      "title": "Say sike",
-      "url": "https://i.redd.it/j6wu6o9ncfv51.gif",
-      "nsfw": false,
-      "spoiler": false,
-      "author": "n1GG99",
-      "ups": 72823,
-      "preview": [
-        "https://preview.redd.it/j6wu6o9ncfv51.gif?width=108&crop=smart&format=png8&s=3b110a4d83a383b7bfebaf09ea60d89619cddfb3",
-        "https://preview.redd.it/j6wu6o9ncfv51.gif?width=216&crop=smart&format=png8&s=ba5808992b3245a6518dfe759cbe4af24e042f2d",
-        "https://preview.redd.it/j6wu6o9ncfv51.gif?width=320&crop=smart&format=png8&s=7567bb64e639223e3603236f774eeca149551313"
-      ]
-    },
-    {
-      "postLink": "https://redd.it/jilgdw",
-      "subreddit": "dankmemes",
-      "title": "I forgot how hard it is to think of a title",
-      "url": "https://i.redd.it/jk12rq8nrhv51.jpg",
-      "nsfw": false,
-      "spoiler": false,
-      "author": "TheRealKyJoe01",
-      "ups": 659,
-      "preview": [
-        "https://preview.redd.it/jk12rq8nrhv51.jpg?width=108&crop=smart&auto=webp&s=d5d3fe588ccff889e61fca527c2358e429845b80",
-        "https://preview.redd.it/jk12rq8nrhv51.jpg?width=216&crop=smart&auto=webp&s=b560b78301afd8c173f8c702fbd791214c1d7f61",
-        "https://preview.redd.it/jk12rq8nrhv51.jpg?width=320&crop=smart&auto=webp&s=3cd427240b2185a3691a818774214fd2a0de124d",
-        "https://preview.redd.it/jk12rq8nrhv51.jpg?width=640&crop=smart&auto=webp&s=1142cc19a746b8b5d8335679d1d36127f4a677b9"
-      ]
-    }
+  "postLink": "https://redd.it/jhr5lf",
+  "subreddit": "wholesomememes",
+  "title": "Every time I visit",
+  "url": "https://i.redd.it/hsyyeb87v7v51.jpg",
+  "nsfw": false,
+  "spoiler": false,
+  "author": "pak_choy",
+  "ups": 1660,
+  "preview": [
+    "https://preview.redd.it/hsyyeb87v7v51.jpg?width=108&crop=smart&auto=webp&s=b76ddb91f212b2e304cad2cd9c5b71a6ddca832c",
+    "https://preview.redd.it/hsyyeb87v7v51.jpg?width=216&crop=smart&auto=webp&s=2bd0b104fd0825afc15d9faa7977c6801e6dae0b",
+    "https://preview.redd.it/hsyyeb87v7v51.jpg?width=320&crop=smart&auto=webp&s=7625c69e144c9cb187dd0be88f541918aca5cedd",
+    "https://preview.redd.it/hsyyeb87v7v51.jpg?width=640&crop=smart&auto=webp&s=e933f956e01d62810e68f12ed8b26a8178ecbb0f"
   ]
 }
 ```

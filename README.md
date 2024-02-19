@@ -7,6 +7,7 @@ Endpoint: /gimme/{subreddit}
 Example: https://meme-api.com/gimme/wholesomememes
 
 Response:
+```
 {
   "count": 2,
   "memes": [
@@ -43,3 +44,4 @@ Response:
     }
   ]
 }
+```
